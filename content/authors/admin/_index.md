@@ -73,8 +73,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a planetary scientist at the University of Idaho. Primarily, I study the rotational dynamics of planetary bodies in the context of habitability. My other research interests include planetary atmospheres, stellar occultations, and exoplanets in general. I am currently seeking a postdoctoral position to further my scientific research career.
+I am a planetary scientist at the University of Idaho. Primarily, I study the rotational dynamics of planetary bodies in the context of habitability. My other research interests include planetary atmospheres, stellar occultations, and exoplanets in general. During my time off I enjoy a variety of hobbies such as playing board games, mountain biking, and camping in the great outdoors.
 
-During my time off I enjoy a variety of hobbies such as playing board games, mountain biking, and camping in the great outdoors.
+I am currently seeking a postdoctoral position to further my scientific research career.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
