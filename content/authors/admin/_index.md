@@ -73,6 +73,8 @@ email: ""
 highlight_name: true
 ---
 
-Steven Kreyche is a planetary scientist with skills in research, scientific communication, and technical writing. He is primarily interested in pursuing questions related to habitability in the Solar System and beyond. His research consists of work that uses numerical simulations to study how planetary rotational evolution behaves over time to better understand the conditions necessary for habitability. Steven is also involved in efforts to study Titan's hazy atmospheric limb, and collaborates with several stellar occultation networks that seek to observe distant Solar System objects. He is seeking a postdoctoral position to further his scientific research career.
+I am a planetary scientist at the University of Idaho. Primarily, I study the rotational dynamics of planetary bodies in the context of habitability. My other research interests include planetary atmospheres, stellar occultations, and exoplanets in general. I am currently seeking a postdoctoral position to further my scientific research career.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}Cirriculum Vitae{{< /staticref >}}.
+During my time off I enjoy a variety of hobbies such as playing board games, mountain biking, and camping in the great outdoors.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
